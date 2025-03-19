@@ -1,0 +1,1 @@
+stat -c '%w' filename. to get the details of the file created by date and time
